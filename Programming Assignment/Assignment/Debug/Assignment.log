@@ -1,0 +1,15 @@
+﻿  cBonus.cpp
+d:\mduffy3\desktop\programming assignment\programming assignment\assignment\definitions.h(9): warning C4309: 'initializing': truncation of constant value
+  cPenalty.cpp
+d:\mduffy3\desktop\programming assignment\programming assignment\assignment\definitions.h(9): warning C4309: 'initializing': truncation of constant value
+  Generating Code...
+cAirport.obj : error LNK2005: "int __cdecl Random(void)" (?Random@@YAHXZ) already defined in Assignment.obj
+cBonus.obj : error LNK2005: "int __cdecl Random(void)" (?Random@@YAHXZ) already defined in Assignment.obj
+cFreeParking.obj : error LNK2005: "int __cdecl Random(void)" (?Random@@YAHXZ) already defined in Assignment.obj
+cGo.obj : error LNK2005: "int __cdecl Random(void)" (?Random@@YAHXZ) already defined in Assignment.obj
+cGoToJail.obj : error LNK2005: "int __cdecl Random(void)" (?Random@@YAHXZ) already defined in Assignment.obj
+cJail.obj : error LNK2005: "int __cdecl Random(void)" (?Random@@YAHXZ) already defined in Assignment.obj
+cPenalty.obj : error LNK2005: "int __cdecl Random(void)" (?Random@@YAHXZ) already defined in Assignment.obj
+cProperty.obj : error LNK2005: "int __cdecl Random(void)" (?Random@@YAHXZ) already defined in Assignment.obj
+monopolyManager.obj : error LNK2005: "int __cdecl Random(void)" (?Random@@YAHXZ) already defined in Assignment.obj
+D:\MDuffy3\Desktop\Programming Assignment\Programming Assignment\Debug\Assignment.exe : fatal error LNK1169: one or more multiply defined symbols found
